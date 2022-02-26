@@ -14,8 +14,8 @@
 
 ## 2、运行界面
 
-<img src="C:\Users\26645\AppData\Roaming\Typora\typora-user-images\1645868066391.png" alt="1645868066391" style="zoom: 33%;" />
+<img src="../../AppData/Roaming/Typora/typora-user-images/1645868066391.png" alt="1645868066391" style="zoom:33%;" />
 
 ## 3、结束界面
 
-<img src="C:\Users\26645\AppData\Roaming\Typora\typora-user-images\1645868143140.png" alt="1645868143140" style="zoom:33%;" />
+<img src="../../AppData/Roaming/Typora/typora-user-images/1645868143140.png" alt="1645868143140" style="zoom:33%;" />
